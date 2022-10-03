@@ -1,5 +1,9 @@
 # Rules for Office Hours for Chris Carroll
 
+These rules apply to appointments that can be made in the slots available at:
+
+[Appointments for Chris Carroll's Office Hours](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UURtUGlGYmVCdFRLfGRlZmF1bHR8MjM3OTFkMDg5MDVhZTM5MDNiYzhjN2Y1MjNlMzRkMWQ)
+
 1. Identify the time slot you would like to occupy
    * Time slots are available in 15 minute increments
    * If you need 30 minutes, sign up for two
