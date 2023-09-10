@@ -1,8 +1,6 @@
 # Rules for Office Hours for Chris Carroll
 
-These rules apply to appointments that can be made in the slots available at:
-
-[Appointments for Chris Carroll's Office Hours](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UURtUGlGYmVCdFRLfGRlZmF1bHR8MjM3OTFkMDg5MDVhZTM5MDNiYzhjN2Y1MjNlMzRkMWQ)
+These rules apply to appointments that can be made in the slots available at the link at the end.
 
 1. Identify the time slot you would like to occupy
    * Time slots are available in 15 minute increments
@@ -21,4 +19,8 @@ These rules apply to appointments that can be made in the slots available at:
 1. After you have signed up for your slot(s), 
    * send me a Google Calendar invitation to ccarroll@llorracc.org to make sure I know about the appointment and it's on my personal calendar
 
+
+[Make an Appointment](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UURtUGlGYmVCdFRLfGRlZmF1bHR8MjM3OTFkMDg5MDVhZTM5MDNiYzhjN2Y1MjNlMzRkMWQ)
+
 If the posted hours are filled and you need to speak to me, email me to arrange an alternative time. (The likeliest availability will be after the end of the departmental seminar, so in your email you should ask me first whether I will be available for extended hours at that time).
+
