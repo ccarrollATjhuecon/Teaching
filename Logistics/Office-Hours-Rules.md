@@ -21,7 +21,7 @@ These rules apply to appointments that can be made in the slots available at the
    * send me a Google Calendar invitation to ccarroll@llorracc.org
    * to make sure I know about the appointment and it's on my personal calendar
 
-[Make an Appointment](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UURtUGlGYmVCdFRLfGRlZmF1bHR8MjM3OTFkMDg5MDVhZTM5MDNiYzhjN2Y1MjNlMzRkMWQ)
+[Click here to make an appointment](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UURtUGlGYmVCdFRLfGRlZmF1bHR8MjM3OTFkMDg5MDVhZTM5MDNiYzhjN2Y1MjNlMzRkMWQ)
 
 If the posted hours are filled and you need to speak to me, email me to arrange an alternative time.
   * The likeliest availability will be on Tue from 5:15-6:00
