@@ -22,7 +22,7 @@ These rules apply to appointments that can be made using the link at the end.
    * with the Zoom link in the "location" box
    * to make sure I know about the appointment and it's on my personal calendar
 
-[Click here to make an appointment](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UURtUGlGYmVCdFRLfGRlZmF1bHR8MjM3OTFkMDg5MDVhZTM5MDNiYzhjN2Y1MjNlMzRkMWQ)
+[Click here to make an appointment](https://calendar.google.com/calendar/selfsched?sstoken=UURtUGlGYmVCdFRLfGRlZmF1bHR8MjM3OTFkMDg5MDVhZTM5MDNiYzhjN2Y1MjNlMzRkMWQ)
 
 If the posted hours are filled and you need to speak to me, email me to arrange an alternative time.
   * The likeliest availability will be on Tue from 5:15-6:00
