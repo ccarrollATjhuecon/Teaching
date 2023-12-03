@@ -492,3 +492,5 @@ dmypy.json
 # *.tif
 
 # End of https://www.gitignore.io/api/latex,emacs,macos,python,ipython,stata
+
+ubuntu.iso
