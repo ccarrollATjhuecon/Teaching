@@ -17,13 +17,8 @@ These rules apply to appointments that can be made using the link at the end.
    * Please communicate directly with the other student
      * JHU outlook should be able to find their email address
    * Then make the agreed changes on the calendar
-1. After you have signed up for your slot(s), 
-   * send me a Google Calendar invitation to ccarroll@llorracc.org
-   * include the Zoom link to the meeting from the appointments calendar item
-   * This is to make sure I know about the appointment
-   * and it's on my personal calendar
 
-[Click here for appointment](https://calendar.google.com/calendar/selfsched?sstoken=UUh4Yi1EQVFtUUQ0fGRlZmF1bHR8ZTIyNGY2YjM4Njc5ODk5ZDQ0YTY2MjYyMTM3N2Q2NzE)
+[Click here for appointment](https://calendar.app.google/bG3wrwSKvcAod3tA6)
 
 If the posted hours are filled and you need to speak to me, email me at ccarroll@llorracc.org to arrange an alternative time.
   * The likeliest availability will be on Tue from 5:15-6:00
