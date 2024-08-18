@@ -18,7 +18,7 @@ These rules apply to appointments that can be made using the link at the end.
      * JHU outlook should be able to find their email address
    * Then make the agreed changes on the calendar
 
-[Click here for appointment](https://calendar.app.google/RMVVeWV7uN3uSUpE6)
+[Click here for appointment](https://calendar.app.google/JQgojM62XNU2jSF79)
 
 For more info about how appointments work, see 
 [Google Appointments Scheduling](https://workspace.google.com/resources/appointment-scheduling/)
