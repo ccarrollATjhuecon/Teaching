@@ -13,14 +13,17 @@ These rules apply to appointments that can be made using the link at the end.
    * the "location" will be MY Zoom link
 1. Replace the "Book 1 or 2 slots ..." text
    * With your FULL name (or, better, your Moniker)
-2. If you want to negotiate with a booked student to swap times:
+2. If you want to negotiate with an already-booked student to swap times:
    * Please communicate directly with the other student
      * JHU outlook should be able to find their email address
    * Then make the agreed changes on the calendar
 
-[Click here for appointment](https://calendar.app.google/bG3wrwSKvcAod3tA6)
+[Click here for appointment](https://calendar.app.google/HwZ5b59wNHK46wy17)
+
+For more info about how appointments work, see 
+[Google Appointments Scheduling](https://workspace.google.com/resources/appointment-scheduling/)
 
 If the posted hours are filled and you need to speak to me, email me at ccarroll@llorracc.org to arrange an alternative time.
-  * The likeliest availability will be on Tue from 5:15-6:00
+  * The likeliest in-person availability will be on Tue from 5:15-6:00
   * In your email you should describe the topic you want to discuss
   
